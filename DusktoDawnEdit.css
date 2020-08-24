@@ -148,7 +148,7 @@ section .da-scroller::-webkit-scrollbar-thumb {border: none !important;}
     bottom: 0;
 }
 .theme-dark .membersGroup-v9BXpm::after {
-    background-image: linear-gradient(to right, transparent, rgba(255,255,255,0.1), rgba(255,255,255,0.5),rgba(255,255,255,0.1),transparent);
+    background-image: url(https://images4.alphacoders.com/102/1029784.jpg);
 }
 .botTagRegular-2HEhHi {
     background-color: #a4a4a4;
@@ -415,10 +415,10 @@ section .da-scroller::-webkit-scrollbar-thumb {border: none !important;}
 .theme-dark .channel-2QD9_O.selected-1HYmZZ a, .theme-dark .channel-2QD9_O:hover a,
 .theme-dark .da-containerDefault.da-selected .da-content {
     background-color: var(--dm-channel-color);
-    background-image: linear-gradient(15deg, transparent, rgba(0,0,0,0.2));
+    background-image: url(https://images4.alphacoders.com/102/1029784.jpg);
 }
 .channel-2QD9_O.selected-1HYmZZ a, .channel-2QD9_O:hover a, .da-containerDefault:hover .da-content {
-    background-image: linear-gradient(15deg, transparent, rgba(0,0,0,0.25));
+    background-image: url(https://images4.alphacoders.com/102/1029784.jpg);
 }
 #app-mount .channel-2QD9_O:hover a,
 #app-mount .contentHoveredText-2D9B-x {
@@ -1111,7 +1111,7 @@ section .da-scroller::-webkit-scrollbar-thumb {border: none !important;}
 }
 #app-mount .searchResultsWrap-2DKFzt .searchResult-3pzFAB:before,
 #app-mount .searchResultsWrap-2DKFzt .searchResult-3pzFAB:after {
-    background-image: none;
+    background-image: url(https://images4.alphacoders.com/102/1029784.jpg);
 }
 #app-mount .searchResultsWrap-2DKFzt .searchResult-3pzFAB .hit-NLlWXA, 
 .theme-dark .searchResult-3pzFAB.expanded-v2Szsz .searchResultMessage-2VxO12.hit-NLlWXA {
@@ -1191,7 +1191,7 @@ section .da-scroller::-webkit-scrollbar-thumb {border: none !important;}
     left: 0;
     bottom: 10px;
     position: absolute;
-    background-image: linear-gradient(to right, transparent, #8d8c8c, transparent) ;
+    background-image: url(https://images4.alphacoders.com/102/1029784.jpg);
 }
 .theme-dark .menu-Sp6bN1 {
     background: #181818;
@@ -1381,17 +1381,17 @@ section .da-scroller::-webkit-scrollbar-thumb {border: none !important;}
     color: #bfb8b8;
 }
 #app-mount .slideBody-2nMrnU {
-    background-image: linear-gradient(90deg, hsla(0, 0%, 12%, 0.29), hsla(240, 1%, 15%, 0.36));
+    background-image: url(https://images4.alphacoders.com/102/1029784.jpg);
     background-size: 100%;
 }
     /* */
     #app-mount .join-33Tr-7 .actionIcon-2IISM_ {
-        background-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/Pgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDIwMDEwOTA0Ly9FTiIgImh0dHA6Ly93d3cudzMub3JnL1RSLzIwMDEvUkVDLVNWRy0yMDAxMDkwNC9EVEQvc3ZnMTAuZHRkIj4KPCEtLSBDcmVhdGVkIHVzaW5nIEtyaXRhOiBodHRwOi8va3JpdGEub3JnIC0tPgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgCiAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIKICAgIHhtbG5zOmtyaXRhPSJodHRwOi8va3JpdGEub3JnL25hbWVzcGFjZXMvc3ZnL2tyaXRhIgogICAgeG1sbnM6c29kaXBvZGk9Imh0dHA6Ly9zb2RpcG9kaS5zb3VyY2Vmb3JnZS5uZXQvRFREL3NvZGlwb2RpLTAuZHRkIgogICAgd2lkdGg9IjcycHQiCiAgICBoZWlnaHQ9IjcycHQiCiAgICB2aWV3Qm94PSIwIDAgNzIgNzIiPgo8ZGVmcy8+CjxwYXRoIGlkPSJzaGFwZTAiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDE0Ljg2MjM4NTMyMTEwMDksIDQ0LjI1NjA1OTE3NDEwNzEpIiBmaWxsPSJub25lIiBzdHJva2U9IiMwN2ExMDMiIHN0cm9rZS13aWR0aD0iMi44OCIgc3Ryb2tlLWxpbmVjYXA9InNxdWFyZSIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciIgc3Ryb2tlLW1pdGVybGltaXQ9IjIiIGQ9Ik0wIDcuNjc5NzJMMCAwIi8+PHBhdGggaWQ9InNoYXBlMSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTQuODYyMzg1MzIxMTAwOSwgNDQuMjU2MDU5MTc0MTA3KSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDdhMTAzIiBzdHJva2Utd2lkdGg9IjIuODgiIHN0cm9rZS1saW5lY2FwPSJzcXVhcmUiIHN0cm9rZS1saW5lam9pbj0ibWl0ZXIiIHN0cm9rZS1taXRlcmxpbWl0PSIyIiBkPSJNMCAwTDEwLjMyMTEgMCIvPjxwYXRoIGlkPSJzaGFwZTIiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDMxLjg3MTU1OTYzMzAyNzUsIDQ0LjQyMTE5MjY4MTE5MTYpIiBmaWxsPSJub25lIiBzdHJva2U9IiNhMzllOWUiIHN0cm9rZS13aWR0aD0iMi44OCIgc3Ryb2tlLWxpbmVjYXA9InNxdWFyZSIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciIgc3Ryb2tlLW1pdGVybGltaXQ9IjIiIGQ9Ik0wLjA4MjU2ODggMTYuNDMyTDAgMCIvPjxwYXRoIGlkPSJzaGFwZTMiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDQ4Ljc5ODE2NTEzNzYxNDcsIDQ0LjA4Mjc5NDIyMTc2OTcpIiBmaWxsPSJub25lIiBzdHJva2U9IiNhMzllOWUiIHN0cm9rZS13aWR0aD0iMi44OCIgc3Ryb2tlLWxpbmVjYXA9InNxdWFyZSIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciIgc3Ryb2tlLW1pdGVybGltaXQ9IjIiIGQ9Ik0wIDEyLjg4OTdMMCAwIi8+PHBhdGggaWQ9InNoYXBlNCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMzIuNTMyMTA3NjMwMDkwMywgNDQuMDgyNzk0MjIxNzY5NykiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2EzOWU5ZSIgc3Ryb2tlLXdpZHRoPSIyLjg4IiBzdHJva2UtbGluZWNhcD0ic3F1YXJlIiBzdHJva2UtbGluZWpvaW49Im1pdGVyIiBzdHJva2UtbWl0ZXJsaW1pdD0iMiIgZD0iTTE2LjI2NjEgMEwwIDAiLz48cGF0aCBpZD0ic2hhcGU1IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgzMS44NzE1NTk2MzMwMjc1LCAzNS4zMzk0NDk1NDEyODQ0KSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjYTM5ZTllIiBzdHJva2Utd2lkdGg9IjIuODgiIHN0cm9rZS1saW5lY2FwPSJzcXVhcmUiIHN0cm9rZS1saW5lam9pbj0ibWl0ZXIiIHN0cm9rZS1taXRlcmxpbWl0PSIyIiBkPSJNMCA4Ljc0MzM0TDAgMCIvPjxwYXRoIGlkPSJzaGFwZTYiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDI3LjIwNDYwODkxNjgwNTgsIDI1LjU4MjkyNTQzMDA0NjIpIiBzb2RpcG9kaTp0eXBlPSJhcmMiIHNvZGlwb2RpOnJ4PSI0Ljc0OTEwMzE1OTEyMDE2IiBzb2RpcG9kaTpyeT0iNC43NDkxMDMxNTkxMjAxNyIgc29kaXBvZGk6Y3g9IjQuNzQ5NDY2OTMyODYzNTEiIHNvZGlwb2RpOmN5PSI0Ljc0OTE0NTIwMzg5NjgiIHNvZGlwb2RpOnN0YXJ0PSIyLjE4NzU2MDI0MzA4NDc5IiBzb2RpcG9kaTplbmQ9IjEuMDQ3MzU0OTQwMTIxNTkiIHNvZGlwb2RpOmFyYy10eXBlPSJjaG9yZCIgZD0iTTcuMTIzMzcgOC44NjIzNkM4Ljk0OTU1IDcuODA4NCA5Ljg2MjE2IDUuNjc2NTcgOS4zNjQyNiAzLjYyNzdDOC44NjYzNiAxLjU3ODgzIDcuMDc3MTkgMC4xMDM1NjEgNC45NzA5OSAwLjAwNTIxMTE2QzIuODY0NzggLTAuMDkzMTM4NSAwLjk0NTkxNyAxLjIwODk4IDAuMjU5MjU2IDMuMjAyNTRDLTAuNDI3NDA0IDUuMTk2MSAwLjI4MjU3NCA3LjQwMzY5IDIuMDAyNTkgOC42MjMyNVoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2EzOWU5ZSIgc3Ryb2tlLXdpZHRoPSIyLjg4IiBzdHJva2UtbGluZWNhcD0ic3F1YXJlIiBzdHJva2UtbGluZWpvaW49ImJldmVsIi8+Cjwvc3ZnPgo=);
+        background-image: url(https://images4.alphacoders.com/102/1029784.jpg);
         background-size: 60%;
         background-position-y: bottom;
     }
     #app-mount .create-3jownz .actionIcon-2IISM_ {
-        background-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/Pgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDIwMDEwOTA0Ly9FTiIgImh0dHA6Ly93d3cudzMub3JnL1RSLzIwMDEvUkVDLVNWRy0yMDAxMDkwNC9EVEQvc3ZnMTAuZHRkIj4KPCEtLSBDcmVhdGVkIHVzaW5nIEtyaXRhOiBodHRwOi8va3JpdGEub3JnIC0tPgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgCiAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIKICAgIHhtbG5zOmtyaXRhPSJodHRwOi8va3JpdGEub3JnL25hbWVzcGFjZXMvc3ZnL2tyaXRhIgogICAgeG1sbnM6c29kaXBvZGk9Imh0dHA6Ly9zb2RpcG9kaS5zb3VyY2Vmb3JnZS5uZXQvRFREL3NvZGlwb2RpLTAuZHRkIgogICAgd2lkdGg9IjcycHQiCiAgICBoZWlnaHQ9IjcycHQiCiAgICB2aWV3Qm94PSIwIDAgNzIgNzIiPgo8ZGVmcy8+CjxwYXRoIGlkPSJzaGFwZTAiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDE0Ljg2MjM4NTMyMTEwMDksIDQ0LjI1Njg4MDczMzk0NSkiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2EzOWU5ZSIgc3Ryb2tlLXdpZHRoPSIyLjg4IiBzdHJva2UtbGluZWNhcD0ic3F1YXJlIiBzdHJva2UtbGluZWpvaW49Im1pdGVyIiBzdHJva2UtbWl0ZXJsaW1pdD0iMiIgZD0iTTEuNzc2MzZlLTE1IDcuOTQyMDdMMCAwIi8+PHBhdGggaWQ9InNoYXBlMSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTQuODYyMzg1MzIxMTAwOSwgNDQuMjU2ODgwNzMzOTQ1KSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjYTM5ZTllIiBzdHJva2Utd2lkdGg9IjIuODgiIHN0cm9rZS1saW5lY2FwPSJzcXVhcmUiIHN0cm9rZS1saW5lam9pbj0ibWl0ZXIiIHN0cm9rZS1taXRlcmxpbWl0PSIyIiBkPSJNMCAwQzMuMzEzNzggMCA3Ljk5ODE1IDAgMTEuMzExOSAwIi8+PHBhdGggaWQ9InNoYXBlMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMzEuODcxNTU5NjMzMDI3NSwgMzUuMDA3MDY0MDEzMjMyOSkiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2EzOWU5ZSIgc3Ryb2tlLXdpZHRoPSIyLjg4IiBzdHJva2UtbGluZWNhcD0ic3F1YXJlIiBzdHJva2UtbGluZWpvaW49Im1pdGVyIiBzdHJva2UtbWl0ZXJsaW1pdD0iMiIgZD0iTTcuMTA1NDNlLTE1IDI1Ljg0NjFMMCAwIi8+PHBhdGggaWQ9InNoYXBlMyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMzUuMzM5NDQ5NTQxMjg0NCwgNDQuMjU2ODgwNzMzOTQ1KSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjYTM5ZTllIiBzdHJva2Utd2lkdGg9IjIuODgiIHN0cm9rZS1saW5lY2FwPSJzcXVhcmUiIHN0cm9rZS1saW5lam9pbj0ibWl0ZXIiIHN0cm9rZS1taXRlcmxpbWl0PSIyIiBkPSJNMCAwTDEzLjU0MjMgMCIvPjxwYXRoIGlkPSJzaGFwZTQiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDQ4Ljg4MTc0MDg0NDE5MzYsIDQ0LjI1Njg4MDczMzk0NSkiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2EzOWU5ZSIgc3Ryb2tlLXdpZHRoPSIyLjg4IiBzdHJva2UtbGluZWNhcD0ic3F1YXJlIiBzdHJva2UtbGluZWpvaW49Im1pdGVyIiBzdHJva2UtbWl0ZXJsaW1pdD0iMiIgZD0iTTAgMEwwIDEyLjM4NjQiLz48cGF0aCBpZD0ic2hhcGU1IiB0cmFuc2Zvcm09Im1hdHJpeCgxIDAgMCAtMSAzOS4xMzc2MTQ2Nzg4OTkxIDUwLjYxNDY3ODg5OTA4MjYpIiBmaWxsPSJub25lIiBzdHJva2U9IiNhMzllOWUiIHN0cm9rZS13aWR0aD0iMi44OCIgc3Ryb2tlLWxpbmVjYXA9InNxdWFyZSIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciIgc3Ryb2tlLW1pdGVybGltaXQ9IjIiIGQ9Ik0wIDBMMCA2LjM1NzgiLz48cGF0aCBpZD0ic2hhcGU2IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgyNC42MDU1MDQ1ODcxNTYsIDUwLjYxNDY3ODg5OTA4MjYpIiBmaWxsPSJub25lIiBzdHJva2U9IiNhMzllOWUiIHN0cm9rZS13aWR0aD0iMi44OCIgc3Ryb2tlLWxpbmVjYXA9InNxdWFyZSIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciIgc3Ryb2tlLW1pdGVybGltaXQ9IjIiIGQ9Ik03LjI2NjA2IDBMMCAwIi8+PHBhdGggaWQ9InNoYXBlNyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMjQuNjA1NTA0NTg3MTU2LCA1MC42MTQ2Nzg4OTkwODI2KSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjYTM5ZTllIiBzdHJva2Utd2lkdGg9IjIuODgiIHN0cm9rZS1saW5lY2FwPSJzcXVhcmUiIHN0cm9rZS1saW5lam9pbj0ibWl0ZXIiIHN0cm9rZS1taXRlcmxpbWl0PSIyIiBkPSJNMCAwTDAgNC4zODg1OSIvPjxwYXRoIGlkPSJzaGFwZTgiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDI3LjY3NzA5MDE1MTAwMDQsIDI1Ljc1MDIyNzU5NzY3MzcpIiBzb2RpcG9kaTp0eXBlPSJhcmMiIHNvZGlwb2RpOnJ4PSI0LjE5NDE2NTEzNzYxNDY4IiBzb2RpcG9kaTpyeT0iNC4yMjY5MzIwNTI3NTIzIiBzb2RpcG9kaTpjeD0iNC4xOTQ0NjIzOTgxODYwNCIgc29kaXBvZGk6Y3k9IjQuMjI2OTQyOTg3MTg4NzEiIHNvZGlwb2RpOnN0YXJ0PSIyLjE5OTI2MzgwNTY4NjkiIHNvZGlwb2RpOmVuZD0iMC45OTE1NDYzMTIxNjQwNjciIHNvZGlwb2RpOmFyYy10eXBlPSJjaG9yZCIgZD0iTTYuNDkwMzMgNy43NjQzNUM4LjAyNjc5IDYuNzUxNTEgOC43MzEwMiA0Ljg0OTI5IDguMjI4MzggMy4wNjk3QzcuNzI1NzMgMS4yOTAxIDYuMTMzMDUgMC4wNDY4MTk0IDQuMjk3NjcgMC4wMDEyOTA3NkMyLjQ2MjI4IC0wLjA0NDIzNzkgMC44MTA4MzIgMS4xMTg1NyAwLjIyMTkyMyAyLjg3MTA5Qy0wLjM2Njk4NSA0LjYyMzYgMC4yNDM1MzkgNi41NTg0NCAxLjcyODY5IDcuNjQ2MjNaIiBmaWxsPSJub25lIiBzdHJva2U9IiNhMzllOWUiIHN0cm9rZS13aWR0aD0iMi44OCIgc3Ryb2tlLWxpbmVjYXA9InNxdWFyZSIgc3Ryb2tlLWxpbmVqb2luPSJiZXZlbCIvPgo8L3N2Zz4K);
+        background-image: url(https://images4.alphacoders.com/102/1029784.jpg);
         background-size: 60%;
         background-position-y: bottom;
     }
@@ -1413,10 +1413,10 @@ section .da-scroller::-webkit-scrollbar-thumb {border: none !important;}
 }
 .headerStreaming-2FjmGz,
 .topSectionStreaming-1Tpf5X {
-    background-image: linear-gradient(30deg, transparent 5%, rgba(0,0,0,0.25)50%, rgba(0,0,0,0.5))
+    background-image: url(https://images4.alphacoders.com/102/1029784.jpg);
 }
 .headerFill-adLl4x {/*
-    background-image: linear-gradient( to bottom, transparent, hsla(0, 3%, 8%, 0.1) 80%, #101010 100%); */
+    background-image: url(https://images4.alphacoders.com/102/1029784.jpg);
     background-color: transparent;
 }
 .connectedAccount-36nQx7 {
@@ -1528,7 +1528,7 @@ section .da-scroller::-webkit-scrollbar-thumb {border: none !important;}
     background-color: #14131e;
 }
 .headerPlaying-j0WQBV {
-    background-image: linear-gradient(10deg, #1a1a1a 2%, #14151e, #141420 );
+    background-image: url(https://images4.alphacoders.com/102/1029784.jpg);
     background-color: #1e1e1e;
 }
 /*
@@ -1762,7 +1762,7 @@ section .da-scroller::-webkit-scrollbar-thumb {border: none !important;}
     background: #202020;
 }
 #app-mount .premium-39U29H::before {
-    background-image: none;
+    background-image: url(https://images4.alphacoders.com/102/1029784.jpg);
 }
 .premium-39U29H .da-arrow polygon {
     fill: #313131;
@@ -1842,7 +1842,7 @@ section .da-scroller::-webkit-scrollbar-thumb {border: none !important;}
 #status-picker .da-statusIconText div+div {display: none;}
 #status-picker .da-item {
     transition: 350ms ease-in, box-shadow 500ms ease;
-    background-image: linear-gradient(140deg, transparent,rgba(0,0,0,0.15), rgba(0,0,0,.25));
+    background-image: url(https://images4.alphacoders.com/102/1029784.jpg);
 }
 #status-picker .da-status {
     background-color: transparent;
@@ -2080,7 +2080,7 @@ rect[transform] {
 
 .da-channels .da-content:hover,
 #app-mount .da-selected.da-channel {
-    background-image: linear-gradient(15deg, transparent, rgba(0,0,0,0.2));
+    background-image: url(https://images4.alphacoders.com/102/1029784.jpg);
 }
 .da-chat div:not(.da-container)::after {
     background-image: none !important;
@@ -2221,7 +2221,7 @@ svg polyline[stroke="#7289da"] {
     margin: 24px 0;
 }
 .theme-dark .form-2fGMdU:before {
-    background-image: none;
+    background-image: url(https://images4.alphacoders.com/102/1029784.jpg);
 }
 .da-divider span.da-content{
     background-color: var(--dm-chat-bg);
@@ -2251,7 +2251,7 @@ svg polyline[stroke="#7289da"] {
     left: -25%;
     bottom: 2px;
 
-    background-image: linear-gradient(90deg, transparent , #cccccca8, transparent);
+    background-image: url(https://images4.alphacoders.com/102/1029784.jpg);
 }
 .recentMentionsPopout-2fmau1 .header-ykumBX::after {
     bottom: -2px
@@ -2274,7 +2274,7 @@ svg polyline[stroke="#7289da"] {
     width: 80%; height: 1px;
     left: 10%;
     margin-top: -2px;
-    background-image: linear-gradient(90deg, transparent , #cccccca8, transparent);
+    background-image: url(https://images4.alphacoders.com/102/1029784.jpg);
 }
 .jumpButton-3DTcS_ {
     background-color: #a2a2a2;
